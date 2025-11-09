@@ -1,0 +1,5 @@
+--print("I use Neovim by the way")
+require("config.options")
+require("config.keybinds")
+require("config.lazy")
+require("current-theme")
