@@ -1,0 +1,14 @@
+[terminal.shell]
+program = "/usr/bin/tmux"
+args = ["new-session", "-A", "-s", "main"]
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "UbuntuMono Nerd Font Mono"
+style = "Regular"
+
+[window]
+opacity = 0.95
+#blur=true
